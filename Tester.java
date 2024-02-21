@@ -191,16 +191,5 @@ public class Tester {
     }
 
 
-    
-
-//    public static Queue<Integer> challenge(Queue<Integer> q)
-//    {
-//        Queue<Integer> temp = new ArrayDeque<>();
-//
-//        while(!q.isEmpty())
-//        {
-//
-//        }
-//    }
 
 }
